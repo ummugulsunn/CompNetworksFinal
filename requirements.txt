@@ -1,0 +1,5 @@
+# Core dependencies
+loguru>=0.7.0  # For logging
+tk>=8.6       # For GUI (usually comes with Python)
+pillow>=10.0.0  # For image handling in GUI
+customtkinter>=5.2.0  # For modern UI elements 
