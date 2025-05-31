@@ -4,12 +4,12 @@
 - **Course:** COE214 Computer Networks
 - **Department:** Computer Engineering
 - **Semester:** Spring 2025
-- **Instructor:** [Professor's Name]
+
 
 ## Project Team
 - **Team Members:**
   - Ümmügülsün Türkmen
-  - Büşra Demirel
+  - *****
 
 ## Project Overview
 This project implements a networked version of "Who Wants to Be a Millionaire" using TCP socket programming. The implementation consists of three separate processes that communicate over a network:
